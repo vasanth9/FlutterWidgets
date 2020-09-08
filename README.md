@@ -40,16 +40,18 @@ AnimatedOpacity
 <li>
 AnimatedPhysicalModel
 </li>
+<li>
+AnimatedPositioned
+</li>
 </ol>
 <h3>Need to code</h3>
 <ol>
 
 
 <li>
-AnimatedPositioned
-</li><li>
 AnimatedSize
-</li><li>
+</li>
+<li>
 AnimatedWidget
 </li>
 </ol>
