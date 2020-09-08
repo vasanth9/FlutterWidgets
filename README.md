@@ -37,13 +37,14 @@ AnimatedListState
 <li>
 AnimatedOpacity
 </li>
+<li>
+AnimatedPhysicalModel
+</li>
 </ol>
 <h3>Need to code</h3>
 <ol>
 
-<li>
-AnimatedPhysicalModel
-</li>
+
 <li>
 AnimatedPositioned
 </li><li>
