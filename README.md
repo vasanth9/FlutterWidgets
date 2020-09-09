@@ -14,24 +14,24 @@
 <li>AnimatedPhysicalModel</li>
 </ol>
 <br/>
-<br/>
+
 <h3>Scheduled to Publish</h3>
+
 <ol>
 <li>AnimatedPositioned</li>
 </ol>
+
 <h3>Coding Complete</h3>
+
 <ol>
 <li>AnimatedSize</li>
 <li>AnimatedWidget</li>
-</ol>
-<h3>Need to code</h3>
-<ol>
-
-
-
-
-
 <li>AppBar</li>
+</ol>
+
+<h3>Need to code</h3>
+
+<ol>
 <li>AspectRatio</li>
 <li>AssetBundle</li>
 <li>BackDropFilter</li>
@@ -39,10 +39,11 @@
 <li>BottomNavigationBar</li>
 <li>BottomSheet</li>
 <li>ButtonBar</li>
-
 </ol>
 <br/>
+
 <h3>postponed items</h3>
+
 <ol>
 <li>
 Animated Align
