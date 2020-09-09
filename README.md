@@ -56,6 +56,16 @@ AnimatedSize
 <li>
 AnimatedWidget
 </li>
+<li>AnimatedWidgetBaseState</li>
+<li>AppBar</li>
+<li>AspectRatio</li>
+<li>AssetBundle</li>
+<li>BackDropFilter</li>
+<li>BaseLine</li>
+<li>BottomNavigationBar</li>
+<li>BottomSheet</li>
+<li>ButtonBar</li>
+
 </ol>
 <br/>
 <h3>postponed items</h3>
