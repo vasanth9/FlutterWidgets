@@ -12,14 +12,14 @@
 <li>AnimatedListState</li>
 <li>AnimatedOpacity</li>
 <li>AnimatedPhysicalModel</li>
+<li>AnimatedPositioned</li>
+<li>AnimatedSize</li>
+<li>AnimatedWidget</li>
 </ol>
 <br/>
 
 <h3>Scheduled to Publish</h3>
 <ol>
-<li>AnimatedPositioned</li>
-<li>AnimatedSize</li>
-<li>AnimatedWidget</li>
 <li>AppBar</li>
 <li>AspectRatio</li>
 </ol>
@@ -27,17 +27,14 @@
 <h3>Coding Complete</h3>
 
 <ol>
-
+<li>BackDropFilter</li>
+<li>BaseLine</li>
+<li>BottomNavigationBar</li>
 </ol>
 
 <h3>Need to code</h3>
 
 <ol>
-
-
-<li>BackDropFilter</li>
-<li>BaseLine</li>
-<li>BottomNavigationBar</li>
 <li>BottomSheet</li>
 <li>ButtonBar</li>
 </ol>
