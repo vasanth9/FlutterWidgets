@@ -33,15 +33,17 @@ class _MystfullwidState extends State<Mystfullwid> {
       appBar: AppBar(
         title: Text("Center"),
       ),
-      body: Container(
-        color: Colors.teal,
-        height: 200,
-        width: 200,
-        child: Padding(
-          padding: const EdgeInsets.all(20.0),
-          child: Container(
-            color: Colors.red,
-            child: Text("How are you"),
+      body: Center(
+        child: Container(
+          color: Colors.teal,
+          height: 200,
+          width: 200,
+          child: Padding(
+            padding: const EdgeInsets.all(20.0),
+            child: Container(
+              color: Colors.red,
+              child: Center(child: Text("How are you")),
+            ),
           ),
         ),
       ),
