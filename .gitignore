@@ -1,1 +1,6 @@
 .packages
+.D/Dwidgets/android
+.D/Dwidgets/ios
+.D/Dwidgets/test
+.D/Dwidgets/pubspec.lock
+
